@@ -1,0 +1,10 @@
+""""""""""""""""""""""""""""""""""""
+i read this text from the given file
+func main() {
+
+	fmt.Println(os.Args)
+	fmt.Println(os.Args[1])
+}
+
+""""""""""""""""""""""""""""""""""""
+
